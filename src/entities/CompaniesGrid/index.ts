@@ -1,0 +1,1 @@
+export { CompaniesGrid } from './ui/CompaniesGrid'

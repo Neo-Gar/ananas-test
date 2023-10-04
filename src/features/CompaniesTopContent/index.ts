@@ -1,0 +1,1 @@
+export { CompaniesTopContent } from './ui/CompaniesTopContent'
